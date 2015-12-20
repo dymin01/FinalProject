@@ -1,0 +1,39 @@
+<resources>
+    <string name="app_name">FinalProject</string>
+
+    <string-array name="category_arrays">
+        <item>술</item>
+        <item>식사</item>
+        <item>게임</item>
+        <item>공부</item>
+        <item>숙제</item>
+        <item>이쁜사람봄</item>
+        <item>사고</item>
+    </string-array>
+
+    <string-array name="emotion_array">
+        <item>기쁨</item>
+        <item>즐거움</item>
+        <item>행복</item>
+        <item>사랑</item>
+        <item>슬픔</item>
+        <item>우울</item>
+        <item>화남</item>
+        <item>흥분</item>
+        <item>외로움</item>
+        <item>고독</item>
+    </string-array>
+
+    <string-array name="all_array">
+        <item>기본</item>
+        <item>술</item>
+        <item>식사</item>
+        <item>게임</item>
+        <item>공부</item>
+        <item>숙제</item>
+        <item>이쁜사람봄</item>
+        <item>사고</item>
+
+    </string-array>
+
+</resources>
